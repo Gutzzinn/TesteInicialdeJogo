@@ -1,2 +1,2 @@
-var hp = 10;
-var vl = 20;
+hp = 10;
+vl = 5;
