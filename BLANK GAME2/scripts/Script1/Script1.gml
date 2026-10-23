@@ -1,4 +1,0 @@
-function Script1(){
-
-}
-

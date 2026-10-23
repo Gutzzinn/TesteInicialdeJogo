@@ -1,12 +1,12 @@
 {
   "$GMScript":"v1",
-  "%Name":"Script1",
+  "%Name":"Ataque",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"Script1",
+  "name":"Ataque",
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Funções",
+    "path":"folders/Funções.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

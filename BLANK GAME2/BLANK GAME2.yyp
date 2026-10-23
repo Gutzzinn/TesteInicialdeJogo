@@ -10,6 +10,7 @@
   },
   "defaultScriptType":0,
   "Folders":[
+    {"$GMFolder":"","%Name":"Funções","folderPath":"folders/Funções.yy","name":"Funções","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objetos","folderPath":"folders/Objetos.yy","name":"Objetos","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
@@ -24,7 +25,7 @@
   "resources":[
     {"id":{"name":"p1","path":"objects/p1/p1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
+    {"id":{"name":"Ataque","path":"scripts/Ataque/Ataque.yy",},},
     {"id":{"name":"s1","path":"sprites/s1/s1.yy",},},
   ],
   "resourceType":"GMProject",
