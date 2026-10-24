@@ -24,9 +24,11 @@
   "name":"BLANK GAME2",
   "resources":[
     {"id":{"name":"p1","path":"objects/p1/p1.yy",},},
+    {"id":{"name":"t1","path":"objects/t1/t1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Ataque","path":"scripts/Ataque/Ataque.yy",},},
     {"id":{"name":"s1","path":"sprites/s1/s1.yy",},},
+    {"id":{"name":"s2","path":"sprites/s2/s2.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

@@ -9,3 +9,5 @@ if (cmp > 0) {
 
 p1.x += dirH * vl;
 p1.y += dirV * vl;
+
+municao = Ataque(municao, t1, p1);
